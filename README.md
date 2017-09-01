@@ -10,3 +10,8 @@ function to use together with `ScrollReveal` library [https://scrollrevealjs.org
 
 ### calc-equal-height.js
 function to set equal height on bootstrap row elements
+
+## PHP
+
+### wp_custom-admin-color-scheme.php
+functions to add an additional custom color scheme to the WordPress backend and set it to default for all current and new users.
