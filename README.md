@@ -11,6 +11,9 @@ function to use together with `ScrollReveal` library [https://scrollrevealjs.org
 ### calc-equal-height.js
 function to set equal height on bootstrap row elements
 
+### jquery.boilerplate.js
+jquery plugin boilerplate
+
 ## PHP
 
 ### wp_custom-admin-color-scheme.php
