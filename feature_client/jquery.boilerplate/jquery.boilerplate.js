@@ -1,5 +1,5 @@
 /******************************************************************
-JQUERY_BOILERPLATE.JS
+JQUERY.BOILERPLATE.JS
 
     > PLUGIN_DEFAULTS
     > PLUGIN_CONSTRUCTOR
@@ -8,7 +8,7 @@ JQUERY_BOILERPLATE.JS
     > PLUGIN_WRAPPER
 
     @DESCRIPTION
-        jquery plugin boilerplate
+        jquery plugin boilerplate.
 
     @USAGE
         use this boilerplate as a starting point of a jquery plugin.
@@ -17,7 +17,7 @@ JQUERY_BOILERPLATE.JS
         - you can pass options to it and call it on multiple elements
         - it prevents function conflicts
         - jquery plugin functions are chainable
-        - you can define private and public functions
+        - you can define private and public functions.
 ******************************************************************/
 
 ;( function( $, window, document, undefined ) {

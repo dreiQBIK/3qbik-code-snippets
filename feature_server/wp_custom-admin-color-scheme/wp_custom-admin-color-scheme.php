@@ -1,6 +1,6 @@
 <?php
 /******************************************************************
-WP_CUSTOM_ADMIN_COLOR_SCHEME.PHP
+WP_CUSTOM-ADMIN-COLOR-SCHEME.PHP
 
     > FUNCTIONS
 
@@ -12,7 +12,7 @@ WP_CUSTOM_ADMIN_COLOR_SCHEME.PHP
     @USAGE
         copy these functions into the functions.php in the
         WordPress theme folder and create a 'backend-style.css'
-        file to add custom CSS
+        file to add custom CSS.
 ******************************************************************/
 
 

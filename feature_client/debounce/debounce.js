@@ -3,7 +3,7 @@ DEBOUNCE.JS
 
     @DESCRIPTION
         function to use e.g. on scroll or on resize to trigger less
-        events at once
+        events at once.
 
     @USAGE
         $(window).on('scroll', debounce(myFunction, 250));

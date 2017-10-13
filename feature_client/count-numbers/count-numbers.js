@@ -1,14 +1,14 @@
 /******************************************************************
-COUNT_NUMBERS.JS
+COUNT-NUMBERS.JS
 
     @DESCRIPTION
         function to use together with 'ScrollReveal' library
         (https://scrollrevealjs.org/) to animate numbers when
-        scrolling into view
+        scrolling into view.
 
     @USAGE
         replace 'var $scrollRevealElements = $('.elements');'
-        with your own class/element
+        with your own class/element.
 ******************************************************************/
 
 

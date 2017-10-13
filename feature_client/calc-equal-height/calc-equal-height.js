@@ -1,16 +1,16 @@
 /******************************************************************
-CALC_EQUAL_HEIGHT.JS
+CALC-EQUAL-HEIGHT.JS
 
     > VARS
     > SETTINGS
     > FUNTIONS
 
     @DESCRIPTION
-        function to set equal height on bootstrap row elements
+        function to set equal height on bootstrap row elements.
 
     @USAGE
         adjust breakpoints (961, 481) and apply classes
-        (e.g. '.h-equal-01') to your elements
+        (e.g. '.h-equal-01') to your elements.
 ******************************************************************/
 
 
