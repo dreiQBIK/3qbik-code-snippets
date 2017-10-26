@@ -18,8 +18,8 @@ A place to store our code snippets.
 ### calc-equal-height
 function to set equal height on bootstrap row elements.
 
-### count-numbers
-function to use together with `ScrollReveal` library [https://scrollrevealjs.org/] to animate numbers when scrolling into view.
+### jquery.count-number.js
+plugin to animate numbers.
 
 ### debounce
 function to use e.g. `onScroll` or `onResize` to trigger less events at once.
