@@ -44,8 +44,6 @@ JQUERY.COUNT-NUMBERS.JS
         this._defaults = defaults;
         this._name = pluginName;
 
-        this.number;
-
         this.init();
     }
 
@@ -59,17 +57,8 @@ JQUERY.COUNT-NUMBERS.JS
         init: function () {
             var self = this;
 
-            // get text/number of element
-            self.number = self.getText();
-
             // animate number
-            self.animateNumber(self.number);
-        },
-
-        // get text of element
-        getText: function () {
-            var self = this;
-            return self.$element.text();
+            self.animateNumber();
         },
 
         // animate the given number
