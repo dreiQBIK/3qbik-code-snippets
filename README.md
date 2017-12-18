@@ -2,10 +2,10 @@
 A place to store our code snippets.
 
 ## How to use
-1 use correct folder structure (sorted after feature type e.g. `.js`-files in `FEATURE_CLIENT`) to structure code snippets
-2 use given intro sections to describe the snippet
-4 use `upper-` and `lowercase` as well as `-` and `_` correctly (as seen in e.g. `jquery.boilerplate.js`)
-3 add the snippet info to README.md
+1. use correct folder structure (sorted after feature type e.g. `.js`-files in `FEATURE_CLIENT`) to structure code snippets
+2. use given intro sections to describe the snippet
+3. use `upper-` and `lowercase` as well as `-` and `_` correctly (as seen in e.g. `jquery.boilerplate.js`)
+4. add the snippet info to README.md
 
 
 ## Feature Client
