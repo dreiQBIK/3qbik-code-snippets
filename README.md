@@ -10,9 +10,6 @@ A place to store our code snippets.
 
 ## FEATURE_CLIENT
 
-### calc-equal-height
-function to set equal height on bootstrap row elements.
-
 ### jquery.count-number.js
 plugin to animate numbers.
 
