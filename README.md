@@ -25,7 +25,7 @@ jquery plugin boilerplate.
 
 ## FEATURE_SERVER
 
-### htcaccess-redirect
+### htcaccess-redirects
 a snippet for apache to redirect from `http` to `https` and from `www` to ` `.
 
 ### wp_custom-admin-color-scheme
