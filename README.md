@@ -2,11 +2,6 @@
 A place to store our code snippets.
 
 ## HOW_TO_USE
-## FEATURE_CLIENT
-## FEATURE_SERVER
-
-
-## HOW_TO_USE
 1 use correct folder structure (sorted after feature type e.g. `.js`-files in `FEATURE_CLIENT`) to structure code snippets
 2 use given intro sections to describe the snippet
 4 use `upper-` and `lowercase` as well as `-` and `_` correctly (as seen in e.g. `jquery.boilerplate.js`)
