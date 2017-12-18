@@ -1,9 +1,9 @@
 # CODE_SNIPPETS
 A place to store our code snippets.
 
-> HOW_TO_USE
-> FEATURE_CLIENT
-> FEATURE_SERVER
+## HOW_TO_USE
+## FEATURE_CLIENT
+## FEATURE_SERVER
 
 
 ## HOW_TO_USE
@@ -29,6 +29,9 @@ jquery plugin boilerplate.
 
 
 ## FEATURE_SERVER
+
+### htcaccess-redirect
+a snippet for apache to redirect from `http` to `https` and from `www` to ` `.
 
 ### wp_custom-admin-color-scheme
 functions to add an additional custom color scheme to the WordPress backend and set it to default for all current and new users.
